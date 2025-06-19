@@ -93,10 +93,7 @@ I'm a dedicated **Software Engineer** specializing in modern web development and
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabeeh-ur-rehman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeeh-ur-rehman&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeeh-ur-rehman&theme=tokyonight" alt="GitHub Streak" />
