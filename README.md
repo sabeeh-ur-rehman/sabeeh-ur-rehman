@@ -14,8 +14,8 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sabeeh-ur-rehmann&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sabeeh-ur-rehmann?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sabeeh-ur-rehman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sabeeh-ur-rehman?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 ---
